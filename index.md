@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Regression Projects
 
 [ Car Price Prediction Multiple Linear Regression](https://github.com/deepaksethionly/Regression_projects/blob/Regression-projects/car-price-prediction.ipynb)
 <img src="images/car price .jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Some Other Projects including BigQuery
 
 - [Chicago Crime](https://github.com/deepaksethionly/biquery_sql_python_datascience/blob/main/chicago-crime-bigquerysql.ipynb)
 - [Hacker News](https://github.com/deepaksethionly/biquery_sql_python_datascience/blob/main/hacker-news-bigquery.ipynb)
