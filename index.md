@@ -17,7 +17,7 @@
 
 ---
 
-### Some Other Projects including BigQuery
+### Some Other Projects including BigQuery Based Projects
 
 - [Chicago Crime](https://github.com/deepaksethionly/biquery_sql_python_datascience/blob/main/chicago-crime-bigquerysql.ipynb)
 - [Hacker News](https://github.com/deepaksethionly/biquery_sql_python_datascience/blob/main/hacker-news-bigquery.ipynb)
