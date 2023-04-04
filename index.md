@@ -2,6 +2,12 @@
 
 
 ---
+### Analysis Project
+
+[Medium Article Analysis](https://github.com/deepaksethionly/Analysis_project/blob/main/medium-article-analysis.ipynb)
+<img src="images/answer3.1.jpg?raw=true"/>Current Trending Article from January 1 to March 30 on Medium
+
+---
 
 ### Regression Projects
 
@@ -25,6 +31,8 @@
 - [Insurance Lead](https://github.com/deepaksethionly/classification/blob/main/insurance-lead-prediction.ipynb)
 - [Netflix](https://github.com/deepaksethionly/Analysis_project/blob/main/netflix-analysis.ipynb)
 - [Housing Price](https://github.com/deepaksethionly/Regression_projects/blob/Regression-projects/housing-price-advanced-regression-train-data.ipynb)
+- [Medium Article Analysis](https://github.com/deepaksethionly/Analysis_project/blob/main/medium-article-analysis.ipynb)
+
 
 ---
 
