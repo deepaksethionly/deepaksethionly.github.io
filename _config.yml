@@ -11,8 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/onlydeepaksethi/">View My LinkedIn Profile</a> 
   <br/>
   <a href="https://medium.com/@onlydeepaksethi0">View Medium Profile</a>
-  <br/>
-  <a href="https://topmate.io/deepak_sethi">Schedule a Meeting</a>
+ 
+  
   
   
 theme: jekyll-theme-minimal
