@@ -36,8 +36,8 @@
 
 ---
 
-
-<a href="https://topmate.io/deepak_sethi">Schedule a Meeting</a>
+ <a href="https://github.com/deepaksethionly">view Github Profile</a>          <a href="https://topmate.io/deepak_sethi">Schedule a Meeting</a>
+ 
 
 
 ---
